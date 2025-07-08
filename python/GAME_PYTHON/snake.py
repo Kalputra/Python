@@ -23,6 +23,9 @@ class Food:
         position = Vector2(x, y)
         return position
 
+class snake:
+    def __init__(self):
+        self.body = [Vector2().]
 
 screen = pygame.display.set_mode((cell_size*number_of_cells, cell_size*number_of_cells))
 
