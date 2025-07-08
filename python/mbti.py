@@ -1,6 +1,6 @@
 def mbti_test():
     
-    print("Selamat datang di tes MBTI sederhana!")
+    print("Welcome di tes mbti kecil dari kal")
     
     e_i = input("Apakah kamu lebih suka (E) berbicara dengan banyak orang atau (I) menikmati waktu sendiri? (E/I): ").strip().upper()
     
